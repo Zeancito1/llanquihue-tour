@@ -1,0 +1,7 @@
+Ruta del Kuchen;gastronomico;4;25000;12
+Paseo Lago Llanquihue;lacustre;3;30000;20
+Volcan Osorno Panoramico;aventura;8;55000;10
+Museo y Cultura Alemana;cultural;5;18000;15
+Cena en Isla Huar;gastronomico;6;42000;8
+Navegacion al Atardecer;lacustre;2;22000;0
+Saltos del Petrohue;aventura;7;48000;14
